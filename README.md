@@ -1,2 +1,2 @@
 # CppClassExercises
-Exercises on C++Classes
+Exercises on C++ Classes
